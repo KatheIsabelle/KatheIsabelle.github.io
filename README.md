@@ -18,4 +18,4 @@ Esses são todos os **links** que usei ao longo da estruturação desse projeto:
 
 
 
-[Linkedin] https://www.linkedin.com/in/kathe-isabelle-6a70a3194/
+
