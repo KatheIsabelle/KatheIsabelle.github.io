@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-12T16:06:36-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Portfolio</title><subtitle>Hey, everyone. This is my personal website and here you&apos;ll find my personal projects and also some of my art stuff. Welcome and have fun. ;)
+</subtitle><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><entry><title type="html">Concepção &amp;amp; História</title><link href="http://localhost:4000/odisseia/2020-07-03-odisseia-introducing/" rel="alternate" type="text/html" title="Concepção &amp;amp; História" /><published>2020-07-03T00:00:00-03:00</published><updated>2020-07-03T00:00:00-03:00</updated><id>http://localhost:4000/odisseia/odisseia-introducing</id><content type="html" xml:base="http://localhost:4000/odisseia/2020-07-03-odisseia-introducing/"><![CDATA[<p><strong>Acesse o GDD (Game Design Document) do Odisseia:</strong> <a href="#built-in-search">Built-In Search</a></p>
+
+<ul class="large-only" id="markdown-toc">
+  <li><a href="#personagens-" id="markdown-toc-personagens-">Personagens </a></li>
+  <li><a href="#o-universo-de-odisseia-" id="markdown-toc-o-universo-de-odisseia-">O Universo de Odisseia </a></li>
+  <li><a href="#enredo--contexto-científico-" id="markdown-toc-enredo--contexto-científico-">Enredo &amp; Contexto Científico </a></li>
+</ul>
+
+<h2 id="personagens-">Personagens <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></h2>
+<p>O universo do jogo gira ao redor de <strong>três personagens principais</strong>: um herói, um vilão e um 
+personagem que é um alívio cômico. O enredo do jogo explora um evento inesperado que 
+acontece com o personagem principal, o nosso herói é um <strong>jovem apaixonado</strong> <strong>por tecnologia e jogos</strong>
+<strong>com uma personalidade introspectiva e sagaz</strong>. Em um determinado momento de sua história, as coisas
+mudam drasticamente quando o mesmo é arrastado para o universo de Odisseia após sofrer
+um <strong>acidente elétrico</strong> com o seu próprio computador. O <strong>vilão</strong> da história é <strong>misterioso</strong> e 
+não se apresenta diretamente ao herói, ele acompanha os movimentos do personagem
+principal que explora esse novo universo sem saber a razão de ter parado lá ou como pode 
+voltar para casa. O terceiro personagem, é <strong>amigo do herói</strong> com uma <strong>personalidade irreverente</strong>, 
+<strong>engraçada</strong> e com um <strong>humor ácido</strong> parece quase <strong>inocente</strong> e <strong>desligado</strong> mediante os acontecimentos, mas é possível que ele saiba muito mais do que realmente demonstra…</p>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\hero.png" alt="Imagem 1" style="width: 20%;" />
+    <figcaption>"Hero"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\villain.png" alt="Imagem 2" style="width: 20%;" />
+    <figcaption>"Villain"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\friend.png" alt="Imagem 3" style="width: 20%;" />
+    <figcaption>"Bestfriend"</figcaption>
+  </figure>
+</div>
+
+<h2 id="o-universo-de-odisseia-">O Universo de Odisseia <sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></h2>
+<p><strong>Metalico</strong>, <strong>elétrico</strong>, <strong>frio</strong>, <strong>nanometrico</strong> e <strong>caótico</strong>…essas são
+as características que compõem o mundo de Odisseia. A história se passa 
+em um <strong>mundo nanométrico</strong> onde impulsos elétricos e metais são o cenário para essa aventura. 
+As criaturas não são convidativas e os meios de sobrevivência não são fáceis, afinal, tudo é recurso 
+a ser disputado de uma forma voraz. Viver nesse universo é como estar dentro de uma Unidade de Processamento
+Computacional e por isso, se adaptar nesse <strong>ambiente inóspito</strong> não é uma tarefa fácil, principalmente
+para um humano.</p>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(25.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\steel.png" alt="Imagem 1" style="width: 25%;" />
+    <figcaption>"Steel"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(25.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\cpu.png" alt="Imagem 2" style="width: 25%;" />
+    <figcaption>"CPU"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(25.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\nano.png" alt="Imagem 3" style="width: 25%;" />
+    <figcaption>"Nano"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(25.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\evil.png" alt="Imagem 4" style="width: 25%;" />
+    <figcaption>"Evil"</figcaption>
+  </figure>
+</div>
+
+<h2 id="enredo--contexto-científico-">Enredo &amp; Contexto Científico <sup id="fnref:1:2" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></h2>
+<p>A proposta do jogo é explorar conceitos de <strong>Circuitos Digitais</strong> e por isso, a história
+foi criada de uma forma que pudesse ser entrelaçada com ciência. Sendo um projeto
+pessoal e também um trabalho de conclusão de curso o Odisseia explora o conceito de 
+<strong>rede de transitores</strong> de forma a apresentar para o jogador um quebra-cabeça a ser 
+solucionado em cada fase. As redes de transitores podem variar de tamanho e organização 
+o seu funcionamento é um tópico estudado nos cursos de Computação e afins, por isso, o 
+jogador deve entender esses conceitos para conseguir solucionar os caminhos lógicos das redes 
+apresentadas em cada fase, solucionar essas <code class="language-plaintext highlighter-rouge">fases</code> é dado ao jogador como 
+<strong>objetivo principal</strong> para que o herói possa <strong>voltar para casa</strong>. Além disso, é necessário
+enfrentar os vilões que compõem o mundo de Odisseia e que farão de tudo para atrapalhar
+o retorno do herói. Ah, e é claro que será necessário uma batalha com o <strong>boss final</strong> para
+concluir o jogo e desvendar o mistério do enredo do jogo.</p>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\quest.png" alt="Imagem 1" style="width: 25%;" />
+    <figcaption>"Quest"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\circuit.png" alt="Imagem 2" style="width: 25%;" />
+    <figcaption>"Circuit"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 5px;">
+    <img src="\assets\img\blog\battle.png" alt="Imagem 3" style="width: 25%;" />
+    <figcaption>"Battle"</figcaption>
+  </figure>
+
+
+</div>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Ícones usados do site https://www.flaticon.com/ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;<sup>2</sup></a> <a href="#fnref:1:2" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;<sup>3</sup></a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><category term="Odisseia" /><summary type="html"><![CDATA[Inicialmente o jogo surgiu como uma proposta de TCC. O intuito prévio era criar uma ferramenta de apoio educacional que pudesse auxiliar estudantes da área de Concepção de Circuitos Integrados (CCI) e até o momento ainda não era entitulado como um jogo. Ao estruturar as ideias para o projeto, minha paixão e interesse por jogos falou mais alto e o que antes era somente uma ferramenta de auxílio educacional, passou a ser um jogo eletrônico. Após essa decisão, o jogo começou a ser pensado como um puzzle que pudesse apresentar ao jogador conceitos de CCI e atrelado a isso o desenvolvimento criativo e do design do jogo também foram iniciados. Jogo está sendo desenvolvido em Unity com scripts em C# e utilização de assets disponíveis gratuitamente.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%5Cassets%5Cimg%5Cblog%5Codisseia.png" /><media:content medium="image" url="http://localhost:4000/%5Cassets%5Cimg%5Cblog%5Codisseia.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Organização &amp;amp; Sistemas</title><link href="http://localhost:4000/odisseia/2018-06-01-odisseia-content-iii/" rel="alternate" type="text/html" title="Organização &amp;amp; Sistemas" /><published>2018-06-01T00:00:00-03:00</published><updated>2018-06-01T00:00:00-03:00</updated><id>http://localhost:4000/odisseia/odisseia-content-iii</id><content type="html" xml:base="http://localhost:4000/odisseia/2018-06-01-odisseia-content-iii/"><![CDATA[<figure style="flex-basis: calc(25.33% - 10px); margin-right: 2px;">
+  <img src="\assets\img\blog\img.png" alt="Imagem 1" style="width: 100%;" />
+  <figcaption>"Asset de classes disponíveis no jogo"</figcaption>
+</figure>
+
+<h3 id="classes-no-jogo">Classes no Jogo:</h3>
+<p>Em Odisseia o jogador poderá escolher entre <strong>três tipos de classes</strong>, todas as classes
+são do tipo shooter e variam em poder de habilidade, estilo de combate, progressão de 
+personagem e aparência.</p>
+
+<figure style="display: flex;">
+  <div style="flex-basis: calc(33.33% - 10px); margin-right: 2px; display: flex; align-items: center;">
+    <img src="\assets\img\blog\tank.png" alt="Tank" style="width: 95%;" />
+  </div>
+  <div style="flex-basis: 50%; text-align: left">
+    <p>A classe Tank Shooter é resistente, aguenta mais dano e tem progressão baseada em tiros críticos. É menos móvel e tem cadências de tiro lentos. Os itens necessários são para melhorar a mobilidade e cadência. É focada em resistência e evolução lenta, mas é vulnerável à falta de mobilidade, apesar de resistir a todos os tipos de dano e receber buffs e escudos durante os combates. </p>
+  </div>
+</figure>
+
+<figure style="display: flex;">
+  <div style="flex-basis: calc(30.33% - 10px); margin-right: 2px; display: flex; align-items: center;">
+    <img src="\assets\img\blog\magic.png" alt="Magic" style="width: 95%;" />
+  </div>
+  <div style="flex-basis: 55%; text-align: left">
+    <p> A classe Magic Shooter é mágica e baseada em eletricidade, dispara raios mágicos pela arma. Evolui para aumentar o dano de área e crítico. Inicialmente tem dano e cadência de tiro média, pode imobilizar inimigos ou criar ondas elétricas que os afastam. É fraca em resistência a dano físico, mas resistente a dano mágico. Os itens indicados para essa classe são os que podem fornecer
+    incremento de resistência e também revitalização de energia.</p>
+  </div>
+</figure>
+
+<figure style="display: flex;">
+  <div style="flex-basis: calc(33.33% - 10px); margin-right: 2px; display: flex; align-items: center;">
+    <img src="\assets\img\blog\bomber.png" alt="bomber" style="width: 95%;" />
+  </div>
+  <div style="flex-basis: 60%; text-align: left">
+    <p> A classe Bomber Shooter é baseado em dano crítico, essa classe é um atirador que causa mais dano em tiros que os demais. A sua progressão está relacionada ao dano e à área que seus tiros podem atingir. Possui mobilidade balanceada e a cadência dos seus tiros é a mais lenta de todas, pois é necessário manipular suas bombas. É a única classe que inicialmente não possui uma arma, começa seu primeiro nível com granas. Os itens que podem ser comprados para essa classe estão relacionados à velocidade de ataque.</p>
+  </div>
+</figure>
+
+<h3 id="inimigos-no-jogo">Inimigos no Jogo</h3>
+<p>Os inimigos do jogo são separados em diferentes <strong>grupos</strong> ou <strong>‘ordas’</strong>. Cada orda possui um estilo de 
+combate, aparência, força, fraqueza e aparecem em determinados locais do mapa. Algumas ordas
+só irão aparecer conforme o jogador for avançando na história, derrotá-las significa enfraquecer
+o <strong>Final Boss</strong>. Todos grupos possuem um <strong>chefe da orda</strong> e para que o jogador consiga destruir 
+a orda por completo é necessário neutralizar o chefe da orda.</p>
+
+<dl>
+  <dt>Orda Neutrons</dt>
+  <dd>Orda inicial e por isso é a <strong>mais fraca</strong>. Esse grupo de inimigos costumam realizar ataques em 
+conjunto e isso é a sua maior vantagem. São baseados em ataques direto e dano físico.</dd>
+</dl>
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\basicneutro.gif" alt="basic1" style="width: 90%;" />
+    <figcaption>"Orda Neutrons"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\basic2neutro.gif" alt="basic2" style="width: 90%;" />
+    <figcaption>"Orda Neutrons2"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\bossneutro.gif" alt="BossNeutro2" style="width: 90%;" />
+    <figcaption>"Neutrons Boss"</figcaption>
+  </figure>
+</div>
+
+<dl>
+  <dt>Orda Prótons</dt>
+  <dd>Orda média e por isso é a <strong>intermediária</strong>. Os inimigos dessa orda já são mais individualistas
+e os seus estilos de combate podem variar, podem ser baseados em dano físico, crítico, mágico
+ou até mesmo em dano verdadeiro. Porém, ainda possuímos um <strong>Boss dos Prótons</strong> é difícil finalizar 
+o combate com esse monstro porque o mesmo irá aparecer em diferentes locais do mapa e será necessário
+batalhar com ele inúmeras vezes.</dd>
+</dl>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\StormHead.gif" alt="StormHead" style="width: 80%;" />
+    <figcaption>"StormHead monstro 1"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\FightBoss.gif" alt="FightMonster" style="width: 95%;" />
+    <figcaption>"FightMonster monstro 2"</figcaption>
+  </figure>
+   <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\Change.gif" alt="Proton Boss" style="width: 75%;" />
+    <figcaption>"Proton Boss"</figcaption>
+  </figure>
+</div>
+
+<dl>
+  <dt>Orda Elétrons</dt>
+  <dd>Orda final e por isso é a <strong>avançada</strong>. Essa orda é composta por dois monstros que servem
+como lacaios do Boss Final. Na batalha final o jogador precisa entender a melhor forma de 
+atacar o Boss e os lacaios, visto que todos se curam ao longo da batalha. É necessário entender
+qual o sistema que interliga os três para que seja possível travar uma batalha direta com o <strong>Boss Final</strong> e derrotá-lo.</dd>
+</dl>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\lacaios (1).gif" alt="StormHead" style="width: 95%;" />
+    <figcaption>"Lacaio 1"</figcaption>
+  </figure>
+  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\lacaios (2).gif" alt="FightMonster" style="width: 95%;" />
+    <figcaption>"Lacaio 2"</figcaption>
+  </figure>
+   <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+    <img src="\assets\img\blog\lacaios (3).gif" alt="Proton Boss" style="width: 95%;" />
+    <figcaption>"Lacaio 3"</figcaption>
+  </figure>
+</div>]]></content><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><category term="Odisseia" /><summary type="html"><![CDATA[Todos os assets e recursos visuais que estão sendo utilizados em Odisseia foram distruídos gratuitamente, ou seja, estão abertos a utilização pública. E os que não estavam sendo distruídos gratuitamente foram adquiridos por meio de compra do pacote. Você pode acessar os links com as devidas referências no final desta página.]]></summary></entry><entry><title type="html">Desenvolvimento &amp;amp; Resultados</title><link href="http://localhost:4000/odisseia/2017-11-23-odisseia-content-ii/" rel="alternate" type="text/html" title="Desenvolvimento &amp;amp; Resultados" /><published>2017-11-23T00:00:00-03:00</published><updated>2017-11-23T00:00:00-03:00</updated><id>http://localhost:4000/odisseia/odisseia-content-ii</id><content type="html" xml:base="http://localhost:4000/odisseia/2017-11-23-odisseia-content-ii/"><![CDATA[<p><em>Rede de Transistores Gamificada</em></p>
+<blockquote>
+  <p>Então, as fases foram estruturadas e o método de interação escolhido foram <strong>alavancas</strong>, 
+essas iriam permitir a criação de um <strong>quebra-cabeças</strong>, onde os valores para cada literal
+poderia ser atribuído variando entre 0 e 1 e consequentemente liberando o caminho da
+corrente para que assim o jogador pudesse reproduzir e coletar itens <strong>moedas</strong> em 
+posições diferentes. Coletar todas as moedas implica em <strong>concluir a fase</strong> com sucesso.</p>
+</blockquote>
+
+<h2 id="esquemático-fase--objetivos">Esquemático Fase &amp; Objetivos:</h2>
+<figure>
+  <img src="\assets\img\blog\desenv1.png" alt="Imagem Pequena" width="500" height="500" />
+  <figcaption>"Esquemático de Fase &amp; Objetivos"</figcaption>
+</figure>
+
+<h2 id="fase-vs-rede-de-transistores">Fase Vs Rede de Transistores:</h2>
+<figure>
+  <img src="\assets\img\blog\bgodisseia.png" alt="Imagem Pequena" width="500" height="500" />
+  <figcaption>"Comparação Esquemático Vs Primeira Fase Implementada em Unity"</figcaption>
+</figure>
+
+<blockquote>
+  <p>A função Booleana implementada determina a organização da rede de transistores, portanto 
+a dificuldade da fase depende da complexidade da função implementada. O intuito é apresentar
+ao jogador uma série de fases que deverão ser solucionadas para que a quest principal do 
+jogo seja completada. Dessa forma, o enredo do jogo irá se mostrando ao longo dessas fases
+e a conclusão delas levará o jogador ao final do enredo e enfretamento do <strong>Final Boss</strong>.</p>
+</blockquote>
+
+<h2 id="tela-de-menu">Tela de Menu:</h2>
+<figure>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pqcnJia2YwZmkzemd6bHZhOWFmZm96cDRpaHUwcWptMWsxNDRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADOWb7zpyEkietDF5/giphy.gif" alt="Imagem Pequena" width="500" height="500" />
+  <figcaption>"Tela de Menu Implementada em Unity"</figcaption>
+</figure>
+
+<ul>
+  <li><strong>Cores:</strong> as bases escolhidas para o jogo variam entre rosa (claro), azul (claro) e branco.</li>
+  <li><strong>Visual:</strong> as referências visuais sempre são associadas a eletricidade com elementos RPG.</li>
+  <li><strong>Som:</strong> a tela do menu possui trilha sonora e os efeitos interativos com os botões da interface
+são efeitos sonoros deelétricos.</li>
+  <li><strong>OBS:</strong> A tela do menu tem como plano de fundo o mundo humano, os raios fazem referência ao oculto 
+que é o mundo de Odisseia.</li>
+</ul>]]></content><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><category term="Odisseia" /><summary type="html"><![CDATA[As fases do jogo foram estruturadas explorando o conceito de rede de transitores e chaves que podem assumir valores entre 0 e 1. Baseado na tecnologia CMOS que é complementar, o plano da rede é divido entre plano inferior (PD: pull-down) e plano superior (PU: pull-up) divido por uma saída (out). Por ser complementar, o que é implementado no plano inferior é invertido no plano superior, dependendo do valor que as chaves assumirem (letras ou literais) isso indica se está ocorrendo a condução de corrente ou não, PU conduz em 0 e PD conduz em 1. Estar conduzindo corrente ou não implica em ter um caminho lógico 'liberado' por essa chave ou não, o jogador tem como objetivo para solucionar a fase, simular o caminho lógico que é liberado conforme valores que são atribuídos aos literais que variam conforme o tamanho da rede, ou seja, número de chaves.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/desenv2.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/desenv2.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/hydejack/2017-11-23-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2017-11-23T00:00:00-03:00</published><updated>2017-11-23T00:00:00-03:00</updated><id>http://localhost:4000/hydejack/example-content</id><content type="html" xml:base="http://localhost:4000/hydejack/2017-11-23-example-content/"><![CDATA[<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+
+<p>There should be whitespace between paragraphs.</p>
+
+<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+
+<p><a href="404.html">Link to another page</a>.</p>
+
+<h1 id="header-1">Header 1</h1>
+
+<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+
+<h2 id="header-2">Header 2</h2>
+
+<blockquote>
+  <p>This is a blockquote following a header.</p>
+
+  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+</blockquote>
+
+<h3 id="header-3">Header 3</h3>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
+<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nf">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nf">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
+  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
+<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h4 id="header-4">Header 4</h4>
+
+<ul>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+</ul>
+
+<h5 id="header-5">Header 5</h5>
+
+<ol>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+</ol>
+
+<h6 id="header-6">Header 6</h6>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">head1</th>
+      <th style="text-align: left">head two</th>
+      <th style="text-align: left">three</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good swedish fish</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">out of stock</td>
+      <td style="text-align: left">good and plenty</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
+      <td style="text-align: left">hmm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
+
+<hr />
+
+<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
+
+<ul>
+  <li>Item foo</li>
+  <li>Item bar</li>
+  <li>Item baz</li>
+  <li>Item zip</li>
+</ul>
+
+<h3 id="and-an-ordered-list">And an ordered list:</h3>
+
+<ol>
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item three</li>
+  <li>Item four</li>
+</ol>
+
+<h3 id="and-a-nested-list">And a nested list:</h3>
+
+<ul>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item
+        <ul>
+          <li>level 3 item</li>
+          <li>level 3 item</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item</li>
+</ul>
+
+<h3 id="small-image">Small image</h3>
+
+<p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt="" /></p>
+
+<h3 id="large-image">Large image</h3>
+
+<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="" /></p>
+
+<h3 id="definition-lists">Definition lists</h3>
+
+<dl>
+  <dt>Name</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
+</code></pre></div></div>
+
+<h2 id="hydejack-exclusives">Hydejack Exclusives</h2>
+<p>Hydejack offers a few additional features to markup your markdown.
+Don’t worry, these are merely CSS classes added with kramdown’s <code class="language-plaintext highlighter-rouge">{:.my-class}</code> syntax,
+so that your posts remain compatible with other Jekyll themes.</p>
+
+<p class="message">You can add a message box by adding the <code class="language-plaintext highlighter-rouge">message</code> class to a paragraph.</p>
+
+<p class="faded">You can add gray text by adding the <code class="language-plaintext highlighter-rouge">faded</code> class.</p>
+
+<p class="lead">You can add large text by adding the <code class="language-plaintext highlighter-rouge">lead</code> class to a paragraph.</p>
+
+<blockquote class="lead">
+  <p>You can make a quote “pop out” by adding the <code class="language-plaintext highlighter-rouge">lead</code> class to a quote.</p>
+</blockquote>
+
+<p>You can make an image span the full width by adding the <code class="language-plaintext highlighter-rouge">lead</code> class:</p>
+
+<p><img src="https://placehold.it/800x100" alt="Full-width image" class="lead" /></p>
+
+<p>Inline math \(f(x) = x^2\) and math blocks:</p>
+
+\[\begin{aligned}
+  \phi(x,y) &amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp; \cdots &amp; \phi(e_1, e_n) \\
+                 \vdots          &amp; \ddots &amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp; \cdots &amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}\]
+
+<p>Large (data) tables:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+    </tr>
+    <tr>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+    </tr>
+    <tr>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Prevent line breaks within cells by adding the <code class="language-plaintext highlighter-rouge">scroll-table</code> class to a table:</p>
+
+<table class="scroll-table">
+  <thead>
+    <tr>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+    </tr>
+    <tr>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+    </tr>
+    <tr>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Flip the table by adding the <code class="language-plaintext highlighter-rouge">flip-table</code> class to a table:</p>
+
+<table class="flip-table">
+  <thead>
+    <tr>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+    </tr>
+    <tr>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+    </tr>
+    <tr>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>4th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>4th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>4th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>4th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>5th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>5th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>5th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>5th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>6th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>6th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>6th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>6th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>7th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>7th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>7th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>7th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>8th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>8th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>8th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>8th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>9th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>9th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>9th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>9th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>10th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>10th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>10th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>10th line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><category term="hydejack" /><category term="example" /><category term="content" /><summary type="html"><![CDATA[A page showing how regular markdown content is styled in Hydejack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/default.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/default.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Conteúdo Adicional</title><link href="http://localhost:4000/odisseia/2012-02-07-odisseia-content/" rel="alternate" type="text/html" title="Conteúdo Adicional" /><published>2012-02-07T00:00:00-03:00</published><updated>2012-02-07T00:00:00-03:00</updated><id>http://localhost:4000/odisseia/odisseia-content</id><content type="html" xml:base="http://localhost:4000/odisseia/2012-02-07-odisseia-content/"><![CDATA[]]></content><author><name>&lt;Kathe&gt; &lt;Isabelle&gt;</name><email>&lt;kathe.isabelle@inf.ufpel.edu.br&gt;</email></author><category term="Odisseia" /><summary type="html"><![CDATA[Conteúdo adicional implementados futuramente. ;)]]></summary></entry></feed>
