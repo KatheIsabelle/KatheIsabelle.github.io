@@ -4,7 +4,7 @@
   "short_name": "Portfolio",
   "description": "Hey, everyone. This is my personal website and here you’ll find my personal projects and also some of my art stuff. Welcome and have fun. ;)",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "rgb(25,55,71)",
+  "theme_color": "#4fb1ba",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "minimal-ui",
