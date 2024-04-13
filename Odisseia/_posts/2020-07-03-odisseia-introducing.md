@@ -16,7 +16,6 @@ description: >
   de assets disponíveis gratuitamente.
 sitemap: false
 ---
-**Acesse o GDD (Game Design Document) do Odisseia:** [Built-In Search](#built-in-search)
 
 - Table of Contents
 {:toc .large-only}
