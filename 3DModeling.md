@@ -16,6 +16,7 @@ sitemap: false
 
   Modelagem de personagem 3D produzidos através do Blender:
 
+![Cartoon](assets\img\blog\1.jpg)
 
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
  <img src="\assets\img\blog\1.png" alt="pers1" style="width: 80%;">
