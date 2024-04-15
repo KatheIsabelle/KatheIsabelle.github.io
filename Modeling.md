@@ -13,8 +13,10 @@ description: >
 
 sitemap: false
 ---
-
+<div style="text-align:center">
   Modelagem de personagem 3D produzidos através do Blender:
+</div>
+
 
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
  <img src="\assets\img\blog\1.PNG" alt="pers1" style="width: 80%;">
