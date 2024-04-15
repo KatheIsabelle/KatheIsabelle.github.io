@@ -3,7 +3,7 @@ layout: post
 
 title: Modelagem 3D
 
-image: \assets\img\blog\2.png
+image: \assets\img\blog\2.PNG
 
 description: >
   Nesta sessão você poderá acessar a minha galeria de modelagem 3D. Nesta página estão meus projetos 
@@ -16,19 +16,17 @@ sitemap: false
 
   Modelagem de personagem 3D produzidos através do Blender:
 
-![Cartoon](assets\img\blog\1.jpg)
-
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
- <img src="\assets\img\blog\1.png" alt="pers1" style="width: 80%;">
+ <img src="\assets\img\blog\1.PNG" alt="pers1" style="width: 80%;">
   <figcaption>"Guy - Cartoon"</figcaption>
 </figure>
 
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-  <img src="\assets\img\blog\pers3" alt="3" style="width: 80%;">
+  <img src="\assets\img\blog\3.PNG" alt="3" style="width: 80%;">
   <figcaption>"Comp Journal Project"</figcaption>
 </figure>
 
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-  <img src="\assets\img\blog\esc.png" alt="escudo" style="width: 80%;">
+  <img src="\assets\img\blog\esc.PNG" alt="escudo" style="width: 80%;">
   <figcaption>"Estudo de iluminação"</figcaption>
   </figure>
