@@ -16,17 +16,17 @@ sitemap: false
 
   Modelagem de personagem 3D produzidos através do Blender:
 
-  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-    <img src="\assets\img\blog\personagem1.png" alt="pers1" style="width: 80%;">
-    <figcaption>"Guy - Cartoon"</figcaption>
-  </figure>
+<figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+  <img src="\assets\img\blog\pers1.png" alt="pers1" style="width: 80%;">
+  <figcaption>"Guy - Cartoon"</figcaption>
+</figure>
 
-  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-    <img src="\assets\img\blog\personagem3.png" alt="pers3" style="width: 80%;">
-    <figcaption>"Comp Journal Project"</figcaption>
-  </figure>
+<figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+  <img src="\assets\img\blog\pers3" alt="pers3" style="width: 80%;">
+  <figcaption>"Comp Journal Project"</figcaption>
+</figure>
 
-  <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-    <img src="\assets\img\blog\escudo.png" alt="escudo" style="width: 80%;">
-    <figcaption>"Estudo de iluminação"</figcaption>
-  </figure>
+<figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
+  <img src="\assets\img\blog\escudo.png" alt="escudo" style="width: 80%;">
+  <figcaption>"Estudo de iluminação"</figcaption>
+</figure>
