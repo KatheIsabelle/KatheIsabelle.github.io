@@ -15,9 +15,9 @@ sitemap: false
 ---
 
   Modelagem de personagem 3D produzidos através do Blender:
+ <img src="\assets\img\blog\pers1.png" alt="pers1" style="width: 80%;">
 
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
-  <img src="\assets\img\blog\pers1.png" alt="pers1" style="width: 80%;">
   <figcaption>"Guy - Cartoon"</figcaption>
 </figure>
 
@@ -29,4 +29,4 @@ sitemap: false
 <figure style="flex-basis: calc(33.33% - 10px); margin-right: 2px;">
   <img src="\assets\img\blog\escudo.png" alt="escudo" style="width: 80%;">
   <figcaption>"Estudo de iluminação"</figcaption>
-</figure>
+  </figure>
