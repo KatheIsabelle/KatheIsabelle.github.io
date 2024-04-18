@@ -6,6 +6,7 @@
 1. About: `Apresentação pessoal, linguagens, softwares, cursos, artigos publicados, etc.`
 2. Odisseia: `Concepção & História, Organização & Sistemas, Desenvolvimento & Resultados, conteúdo adicional.`
 3. Arte: `Desenhos digitais (rascunhos e finalizados), modelagem 3D.`
+4. 3D Modeling:  `Modelagem 3D de personagens, objetos, etc.`
 
 
 ## Referências & Leituras
